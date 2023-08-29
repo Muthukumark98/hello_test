@@ -1,0 +1,26 @@
+sudo apt update git
+sudo apt install git
+git --version
+git config --global user.name "Muthukumark98"
+git config --global user.email "muthukumar1998mk98@gmail.com"
+git config --list
+pwd
+mkdir workspace
+cd workspace/
+git clone https://github.com/Muthukumark98/hello_test.git
+ls
+cd hello_test/
+touch hello.py
+ls
+cat README.md 
+ls
+vim hello.py
+cat hello.py
+git status
+git add hello.py
+git status
+git commit -m "first python code"
+git status
+git push origin main
+git remote set-url origin https://<token>/<username>/<repo>
+git push origin main
