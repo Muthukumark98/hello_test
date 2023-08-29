@@ -1,0 +1,38 @@
+ 2028  sudo apt update git
+ 2029  sudo apt install git
+ 2030  sudo apt --fix-broken instal
+ 2031  sudo apt --fix-broken install
+ 2032  git --version
+ 2033  c
+ 2034  git config --global user.name "Muthukumark98"
+ 2035  git config --global user.email "muthukumar1998mk98@gmail.com"
+ 2036  git config --list
+ 2037  pwd
+ 2038  mkdir workspace
+ 2039  cd workspace/
+ 2040  git clone https://github.com/Muthukumark98/hello_test.git
+ 2041  ls
+ 2042  cd hello_test/
+ 2043  cd .
+ 2044  cd ..
+ 2045  cd hello_test/
+ 2046  touch hello.py
+ 2047  ls
+ 2048  cat README.md 
+ 2049  l
+ 2050  ls
+ 2051  gedit hello.py 
+ 2052  cat hello.py 
+ 2053  cleat
+ 2054  clear
+ 2055  ls
+ 2056  git status
+ 2057  git add hello.py
+ 2058  git status
+ 2059  gir commit -m "first python code"
+ 2060  git commit -m "first python code"
+ 2061  git status
+ 2062  git push origin main
+ 2063  git remote set-url origin https://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@github.com/Muthukumark98/hello_test
+ 2064  git push origin main
+
